@@ -1,8 +1,8 @@
-[](videos/Cool.mp4)
-
 # About
 
 This is my manim hello world project.
+
+[Result](videos/Cool.mp4)
 
 # Development(Linux)
 
